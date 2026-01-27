@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**CameronTorresN/CameronTorresN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Cameron Torres Núñez](camtorres.com) (He/Him)
 
-Here are some ideas to get you started:
+Passionate and driven **Creative Computing student** based in **Mexico City**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about web and app development.
+
+Eager to explore the world of coding and create innovative digital solutions.
+
+> Equipped with foundation in coding principles *(Swift UI)* and
+> Processing *(Java).*
+
+<a href="mailto:camtorresnunez@gmail.com">Send me an email ✉️</a>
+[Instagram](https://www.instagram.com/camtorresn/)
+[LinkedIn](https://www.linkedin.com/in/cameron-torres-424501284/)
