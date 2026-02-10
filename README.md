@@ -1,5 +1,5 @@
 
-## [Cameron Torres Núñez](camtorres.com) (He/Him)
+# [Cameron Torres Núñez](camtorres.com) (He/Him)
 
 Passionate and driven **Creative Computing student** based in **Mexico City**.
 
