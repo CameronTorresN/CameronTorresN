@@ -9,7 +9,7 @@ Eager to explore the world of coding and create innovative digital solutions.
 
 > Equipped with foundation in coding principles *(Swift UI)* and
 > Processing *(JavaScript).*
-> HTML + CSS
+> Working with HTML + CSS
 
 <a href="mailto:camtorresnunez@gmail.com">Send me an email ✉️</a>
 [Instagram](https://www.instagram.com/camtorresn/)
