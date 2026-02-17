@@ -1,8 +1,13 @@
 body {
-    background-color: rgb(255, 0, 0);
-    color: white;
+    background-color: rgb(67, 67, 67);
+    color: rgb(195, 244, 255);
 }
 
-h1{ 
+h1,h2,h3,h4,h5,h6{ 
     font-family: "thornwood-vf", sans-serif;
+    font-size: 14px;
+} 
+
+p{
+    font-family: "area-normal-regular", sans-serif;
 }
