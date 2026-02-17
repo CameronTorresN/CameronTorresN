@@ -2,3 +2,7 @@ body {
     background-color: rgb(255, 0, 0);
     color: white;
 }
+
+h1{ 
+    font-family: "thornwood-vf", sans-serif;
+}
