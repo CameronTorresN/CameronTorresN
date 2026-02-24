@@ -1,21 +1,64 @@
-body {
-    background-color: rgb(67, 67, 67);
-    color: rgb(195, 244, 255);
+
+:root{
+    --font-family: "area-normal-regular", sans-serif;
+    --font-title: "thornwood-vf", sans-serif;
+    --accent-color:rgb(207, 31, 31);
+    --background-color: rgb(25, 25, 25);
+    --text-color:rgb(232, 232, 232);
 }
 
-h1,h2,h3,h4,h5,h6{ 
-    font-family: "thornwood-vf", sans-serif;
-    
-} 
+html{
+    font-size: 10px;
+}
 
-h1{ 
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+    font-size: 1.6em;
+}
+
+h1,h2,h3{ 
+    font-family: var(--font-title), sans-serif;
     font-size: 3rem;
     
 } 
 
-p{
-    font-family: "area-normal-regular", sans-serif;
+
+h1{ 
+    font-family: var(--font-title), sans-serif;
+    font-size: 3rem;
+    
+} 
+
+a {
+color: var(--accent-color);
 }
 
-a{color: rgb(195, 244, 255);
+a:hover {
+    opacity: 0.5;
+}
+
+a:visited {
+   color:rgb(243, 0, 199) ;
+}
+
+a:hover {
+ filter: invert(1);
+}
+
+a{
+border-radius: 5px; text-align: center; display: inline-block;
+margin: 1em;
+border: 2px solid var(--accent-color); background-color: var(--text-color);
+color: var(--background-color);
+padding: .5em 1em;
+color: var(--accent-color);
+transition: all .5s ease-in-out;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 960px;
 }
