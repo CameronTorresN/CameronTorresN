@@ -9,6 +9,16 @@
 
 html{
     font-size: 10px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+@media (min-width: 768px){
+    html {font-size: 150%; }
+}
+
+@media (min-width: 1024px){
+    html {font-size: 200%; }
 }
 
 body {
